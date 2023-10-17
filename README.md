@@ -1,6 +1,6 @@
 # Indeed Clone
 
-![Indeed Clone Architecture](https://example.com/your-image-url.png)
+![Indeed Clone Architecture](https://github.com/PushpRatan/Indeed-Clone/assets/92618493/20ac94c1-4afb-4499-8108-a7f2b55432a0)
 
 Welcome to the Indeed Clone, a simplified job posting and job search application. This README provides an overview of the architecture, features, tools used, and deployment details for this project.
 
@@ -22,6 +22,7 @@ The Indeed Clone is built using the following technologies:
 - **Backend**: Powered by Spring Boot, a Java-based framework. It handles API requests, processes data, and interacts with the MongoDB database.
 
 - **Database**: MongoDB stores job data for efficient management and retrieval.
+
 
 - **Deployment**: Frontend on Netlify, and backend on Render, making your application accessible on the web.
 
