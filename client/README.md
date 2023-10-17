@@ -4,7 +4,7 @@ Welcome to the frontend of the Indeed Clone, a simplified job posting and job se
 
 ## Deployment
 
-The frontend of the Indeed Clone is deployed on [Netlify]([https://your-frontend-link](https://newindeed.netlify.app/))
+You can visit the site here: [Indeed Clone](https://newindeed.netlify.app/)
 
 ## Architecture
 
