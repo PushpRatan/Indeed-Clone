@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Indeed Clone Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the frontend of the Indeed Clone, a simplified job posting and job search application. This README provides an overview of the frontend, its architecture, features, and deployment details.
 
-## Available Scripts
+## Deployment
 
-In the project directory, you can run:
+The frontend of the Indeed Clone is deployed on [Netlify]([https://your-frontend-link](https://newindeed.netlify.app/))
 
-### `npm start`
+## Architecture
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The frontend of the Indeed Clone is developed using the following technologies:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React**: A popular JavaScript library for building user interfaces.
 
-### `npm test`
+- **React Router**: Used for creating distinct sections and routes within the single-page application.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **JavaScript**: For scripting and interactivity.
 
-### `npm run build`
+- **Styling**: CSS and styling frameworks (e.g., CSS-in-JS, styled-components) are used for creating a visually appealing user interface.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The frontend offers the following key features:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Post a Job**: Employers can create job listings by providing job details. The data is sent to the backend via a POST API for storage in the database.
 
-### `npm run eject`
+- **Find Jobs**: Job seekers can browse and search for available job listings. Job data is retrieved from the backend using a GET API.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Landing Page**: A welcoming landing page with a "Post a Job" button and a navigation bar for easy access to both sections.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Skills Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The development of the frontend required the following skills:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- React.js for building the user interface and managing state.
 
-## Learn More
+- JavaScript for scripting and interactivity.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- React Router for creating distinct sections and routes.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- CSS and styling frameworks for creating a visually appealing user interface.
 
-### Code Splitting
+## Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+To run the frontend locally for development or testing:
 
-### Analyzing the Bundle Size
+1. Clone the frontend repository.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+2. Set up your development environment with Node.js installed.
 
-### Making a Progressive Web App
+3. Install project dependencies using `npm install`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+4. Run the development server using `npm start`.
 
-### Advanced Configuration
+Feel free to customize and expand upon the Indeed Clone frontend for your specific needs!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+That's it! You now have an overview of the Indeed Clone frontend's architecture, features, skills used, and deployment details. Happy job posting and searching!
