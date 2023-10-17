@@ -7,7 +7,7 @@ Welcome to the Indeed Clone, a simplified job posting and job search application
 ## Deployment
 
 You can access the Indeed Clone using the following link:
-[Netlify - Frontend](https://your-frontend-link)
+[Indeed Clone](https://newindeed.netlify.app/)
 
 ## Architecture
 
